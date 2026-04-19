@@ -19,7 +19,7 @@ Hệ thống giúp:
 
 ---
 
-## ⚙️ Chức năng chính
+##  Chức năng chính
 
 ### 1. Quản lý khách hàng
 - Lưu trữ thông tin khách hàng
